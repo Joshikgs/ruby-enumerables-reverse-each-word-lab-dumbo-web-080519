@@ -5,6 +5,3 @@ def reverse_each_word(string)
 end
 
 
-
-
-Hi again, just making sure it's reversed!
