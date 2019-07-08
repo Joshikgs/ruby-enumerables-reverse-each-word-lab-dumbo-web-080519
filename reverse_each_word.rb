@@ -7,4 +7,4 @@ end
 
 
 
-["Hi", "again," ,"just", making sure it's reversed!]
+"Hi again, just making sure it's reversed!"
